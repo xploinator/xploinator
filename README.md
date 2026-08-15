@@ -1,15 +1,14 @@
-&lt;div align="center"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=520&lines=Offensive+Security;Adversary+Simulation;Red+Team+Operator" alt="header" /&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=520&lines=Offensive+Security;Adversary+Simulation;Red+Team+Operator" alt="header" />
+</div>
 
-&lt;h3 align="center"&gt;Security Engineer @ GraySentinel | TryHackMe Top 3%&lt;/h3&gt;
+<h3 align="center">Security Engineer @ GraySentinel | TryHackMe Top 3%</h3>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://tryhackme.com/p/xploinator"&gt;&lt;img src="https://img.shields.io/badge/TryHackMe-xploinator-DC2626?style=flat-square&logo=tryhackme&logoColor=white"&gt;&lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/yuvraj-singh-234605364"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-Yuvraj%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white"&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/xploinator"&gt;&lt;img src="https://img.shields.io/badge/GitHub-xploinator-181717?style=flat-square&logo=github&logoColor=white"&gt;&lt;/a&gt;
-&lt;/p&gt;
-
+<p align="center">
+  <a href="https://tryhackme.com/p/xploinator"><img src="https://img.shields.io/badge/TryHackMe-xploinator-DC2626?style=flat-square&logo=tryhackme&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yuvraj-singh-234605364"><img src="https://img.shields.io/badge/LinkedIn-Yuvraj%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/xploinator"><img src="https://img.shields.io/badge/GitHub-xploinator-181717?style=flat-square&logo=github&logoColor=white"></a>
+</p>
 ---
 
 ## Profile
