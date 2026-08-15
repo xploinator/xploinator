@@ -82,17 +82,17 @@ Offensive security engineer building adversary simulation environments, CTF chal
 
 ## Intel
 
-&lt;p align="center"&gt;
-  &lt;img height="170" src="https://github-readme-stats.vercel.app/api?username=xploinator&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=DC2626&icon_color=DC2626&text_color=c9d1d9&rank_icon=percentile" /&gt;
-  &lt;img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=xploinator&theme=dark&hide_border=true&background=0d1117&stroke=DC2626&ring=DC2626&fire=DC2626&currStreakNum=c9d1d9&sideNums=c9d1d9" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xploinator&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=DC2626&icon_color=DC2626&text_color=c9d1d9&rank_icon=percentile" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=xploinator&theme=dark&hide_border=true&background=0d1117&stroke=DC2626&ring=DC2626&fire=DC2626&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://tryhackme-badges.s3.amazonaws.com/xploinator.png" alt="TryHackMe Badge" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/xploinator.png" alt="TryHackMe Badge" />
+</p>
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=xploinator&color=DC2626&style=flat-square" alt="profile views" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xploinator&color=DC2626&style=flat-square" alt="profile views" />
+</p>
