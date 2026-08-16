@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/yuvraj-singh-234605364"><img src="https://img.shields.io/badge/LinkedIn-Yuvraj%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/xploinator"><img src="https://img.shields.io/badge/GitHub-xploinator-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
+
 ---
 
 ## Profile
@@ -62,7 +63,7 @@ Offensive security engineer building adversary simulation environments, CTF chal
 
 | Credential | Details |
 |------------|---------|
-| **TryHackMe** | Top 3% globally · Platinum League · 110+ labs · 19 badges · Top 150 India (monthly) · Top 700 global (monthly) |
+| **TryHackMe** | Top 3% globally · Saphire League · 120+ labs · 19 badges · Top 150 India (monthly) · Top 700 global (monthly) |
 | **Hack The Box** | Cyber Apocalypse CTF 2026 — Team *cipherlane*, 765th / 6,744 teams, 34 challenges solved |
 | **Certification** | Junior Vibe Pentester (JVP) — VibeSecurity |
 | **Hackathon** | ISRO National STEM Hackathon — Finalist |
@@ -77,7 +78,8 @@ Offensive security engineer building adversary simulation environments, CTF chal
 | **[email-phishing-detection](https://github.com/xploinator/email-phishing-detection)** | Lightweight phishing email detection engine | Python |
 | **[RedTeam-Toolkit](https://github.com/xploinator/RedTeam-Toolkit)** | Post-exploitation scripts, enumeration automation, and attack chain utilities | Python, PowerShell, Bash |
 | **[CTF-Writeups](https://github.com/xploinator/CTF-Writeups)** | Detailed walkthroughs — TryHackMe, HTB, PicoCTF, CTF Competitions | Markdown |
-| **[OSINT-Tradecraft](https://github.com/xploinator/OSINT-Tradecraft)** | Practical OSINT tradecraft: investigation workflows, tool notes, and techniques | 
+| **[OSINT-Tradecraft](https://github.com/xploinator/OSINT-Tradecraft)** | Practical OSINT tradecraft: investigation workflows, tool notes, and techniques | Markdown, Python, OSINT Framework | 
+
 ---
 
 ## Intel
