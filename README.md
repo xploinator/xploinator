@@ -90,10 +90,3 @@ Offensive security engineer building adversary simulation environments, CTF chal
 <p align="center">
   <img src="https://raw.githubusercontent.com/xploinator/xploinator/main/THM-Badge" alt="TryHackMe Badge" />
 </p>
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xploinator&color=DC2626&style=flat-square" alt="profile views" />
-</p>
